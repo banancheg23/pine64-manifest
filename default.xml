@@ -12,8 +12,8 @@
   <project groups="pdk" name="android_external_busybox" path="external/busybox" remote="ayufan" revision="5827297ffe2d7b0fcb6b29e2fe953bf21b90a161" upstream="nougat"/>
   <project groups="pdk" name="android_external_ethtool" path="external/ethtool" remote="ayufan" revision="e88940d9e3f17bd56a9998b186da1099306bec22" upstream="s805_4.4.2_master"/>
   <project name="aosp_build" path="vendor/opengapps/build" remote="opengapps" revision="85660425c185550bceaee7d2d1849b90b1530853" upstream="master"/>
-  <project clone-depth="1" name="arm" path="vendor/opengapps/sources/arm" remote="opengapps" revision="ac73dd1662fb0228c8a12e761362a5e4fd6030b8" upstream="master"/>
-  <project clone-depth="1" name="arm64" path="vendor/opengapps/sources/arm64" remote="opengapps" revision="579c6828a8bf643a37c2bb4db4ea97afb8e7b412" upstream="master"/>
+  <project clone-depth="1" name="arm" path="vendor/opengapps/sources/arm" remote="opengapps" revision="47e7f601497fbb37012d2cbe7af0054ecbba8936" upstream="master"/>
+  <project clone-depth="1" name="arm64" path="vendor/opengapps/sources/arm64" remote="opengapps" revision="040b4f0440b3dafc6dec4b62eadbea8eee6edb67" upstream="master"/>
   <project groups="pdk" name="art" remote="ayufan" revision="4124eb30c8746588a4bb131be6b8fa367466f807" upstream="marshmallow"/>
   <project groups="pdk" name="boot-tools" path="vendor/ayufan-pine64/boot-tools" remote="ayufan" revision="2de37d3d4225e45b269c2235cc59f20702f1e42e" upstream="master"/>
   <project groups="pdk" name="build" remote="ayufan" revision="fbeff3cce31881c710592b135e073e2c4cfa5ebc" upstream="marshmallow">
