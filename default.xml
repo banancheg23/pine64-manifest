@@ -64,7 +64,6 @@
   <project groups="pdk" name="hardware-realtek" path="hardware/realtek" remote="ayufan" revision="1d722135621152e62535760d45c24e92234dff80" upstream="marshmallow"/>
   <project groups="pdk" name="kati" remote="google" revision="eaab22d4d5f73bb5a8bd120e9cde3283c4ab61f8" upstream="master"/>
   <project clone-depth="1" groups="pdk" name="linux-pine64" path="linux/kernel-tulip" remote="ayufan" revision="5929c61c9d3224835df948b19dbca9ee61c81429" upstream="my-hacks-1.2"/>
-  <project clone-depth="1" name="opengapps-all" path="vendor/opengapps/sources/all" remote="ayufan" revision="91141a9ca63afffb0f398646940dee0a086896c2" upstream="refs/heads/marshmallow"/>
   <project name="opengapps_atv_build" path="vendor/opengapps/atv-build" remote="ayufan" revision="a810d16de5d7119868c9a04e1e0997357a2cce87" upstream="nougat"/>
   <project groups="pdk" name="platform/abi/cpp" path="abi/cpp" revision="36b381298a4efb7c293d394d8b1acbda68230989" upstream="refs/tags/android-6.0.1_r74"/>
   <project groups="pdk" name="platform/bionic" path="bionic" revision="12123dffb829086ebb1b07d81ef01522519ed657" upstream="refs/tags/android-6.0.1_r74"/>
